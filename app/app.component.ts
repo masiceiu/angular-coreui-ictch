@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   // tslint:disable-next-line
   selector: 'body',
-  template: 'a'
+  template: '<a>?</a>'
 })
 export class AppComponent {
   ngOnInit() {
