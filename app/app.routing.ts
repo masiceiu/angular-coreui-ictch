@@ -21,7 +21,7 @@ export const routes: Routes = [
     },
   },
   {
-    path: '',
+    path: 'dashboard1',
     component: FullLayoutComponent,
     data: {
       title: 'Home'
