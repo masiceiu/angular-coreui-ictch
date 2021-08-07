@@ -13,21 +13,21 @@
 
 
 // Override Boostrap variables
-@import "_bootstrap-variables";
+@import "_bootstrap-variables.scss";
 
 // Import Bootstrap source files
-@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/bootstrap.scss";
 
 //@import "~font-awesome/css/font-awesome.css";
 //@import "~simple-line-icons/css/simple-line-icons.css";
 // Override core variables
-@import "_core-variables";
+@import "_core-variables.scss";
 
 // Import core styles
-@import "core/core";
+@import "core/core.scss";
 
 // Custom styles
-@import "_custom";
+@import "_custom.scss";
 
 
 @import "~font-awesome/css/font-awesome.css";
