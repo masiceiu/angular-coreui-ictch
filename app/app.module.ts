@@ -5,13 +5,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 
 
-//import { LocationStrategy, HashLocationStrategy } from '@angular/common';
+import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 
 // Import containers
 import {
   FullLayoutComponent
-} from './containers';*/
+} from './containers';
 
 const APP_CONTAINERS = [
   FullLayoutComponent
