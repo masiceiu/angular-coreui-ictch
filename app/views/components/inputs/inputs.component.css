@@ -1,0 +1,9 @@
+/*@import "~font-awesome/css/font-awesome.css";
+@import "~primeng/resources/primeng.min.css";
+@import "~primeng/resources/themes/rocket/theme.css";*/
+
+*,
+*::before,
+*::after {
+  box-sizing: content-box !important; 
+}
