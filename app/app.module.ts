@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
 
 
 // Import containers
-/*import {
+import {
   FullLayoutComponent
 } from './containers';*/
 
